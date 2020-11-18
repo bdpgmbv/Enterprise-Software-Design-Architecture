@@ -8,14 +8,22 @@ Currently there are three specific forms of treatment records: 1. A drug treatme
 
 Phase 1: Data Modeling 
 * Created a JAXB Maven Project. 
-* Using "maven-jaxb2-plugin" - 
+* Used "maven-jaxb2-plugin" 
 ```
-the most advanced and feature-full Maven plugin for XML Schema compilation. 
+Quick Info:
+The most advanced and feature-full Maven plugin for XML Schema compilation. 
 This Maven plugin wraps and enhances the JAXB Schema Compiler (XJC) and allows compiling XML Schemas 
 (as well as WSDL, DTDs, RELAX NG) into Java classes in Maven builds.
 ```
 * Added the Plugin to the pom.xml file.
 * Under src/main/resources created Schema.xsd, Schema.xjb, jaxb.properties, DateAdapter.xsd files.
 * Schema.xsd - Defines the XML Schema for these Entity Types. 
-* Schema.xjb - 
+```
+
+```
+* Schema.xjb - This file customizes JAXB bindings by means of custom binding declarations. This is an external file passed to the JAXB binding compiler. 
+```
+Using an external binding customization file enables you to customize JAXB bindings without having to modify the source schema, and enables you to easily apply customizations to several schema files at once.
+```
+
 
