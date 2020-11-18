@@ -5,12 +5,17 @@ Currently there are three specific forms of treatment records: 1. A drug treatme
 * Every healthcare provider has a record that includes their provider identifier (NPI), their name, and an indication of their specialization (surgery, radiology, oncology, etc). Each provider may be related to several treatment instances. We will represent the patient treatment and provider-treatment relationships using foreign keys.
 
 
-```
+
 Phase 1: Data Modeling 
 * Created a JAXB Maven Project. 
-* Using "maven-jaxb2-plugin" - the most advanced and feature-full Maven plugin for XML Schema compilation. 
-This Maven plugin wraps and enhances the JAXB Schema Compiler (XJC) and allows compiling XML Schemas (as well as WSDL, DTDs, RELAX NG) into Java classes in Maven builds.
+* Using "maven-jaxb2-plugin" - 
+```
+the most advanced and feature-full Maven plugin for XML Schema compilation. 
+This Maven plugin wraps and enhances the JAXB Schema Compiler (XJC) and allows compiling XML Schemas 
+(as well as WSDL, DTDs, RELAX NG) into Java classes in Maven builds.
+```
 * Added the Plugin to the pom.xml file.
 * Under src/main/resources created Schema.xsd, Schema.xjb, jaxb.properties, DateAdapter.xsd files.
 * Schema.xsd - Defines the XML Schema for these Entity Types. 
-```
+* Schema.xjb - 
+
