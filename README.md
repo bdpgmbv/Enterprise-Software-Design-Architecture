@@ -85,9 +85,9 @@ A <property> declaration.
 [Guide for Customizing JAXB Bindings](https://docs.oracle.com/cd/E17802_01/webservices/webservices/docs/1.6/tutorial/doc/JAXBUsing4.html#wp148613)
 
 * jaxb.properties: We can include a jaxb.properties file in the same package as our domain model to specify the JAXB (JSR-222) implementation we wish to use. Here, it would look like the following to specify EclipseLink MOXy as your JAXB provider - javax.xml.bind.context.factory=org.eclipse.persistence.jaxb.JAXBContextFactory.
-
 [Guide for jaxb.properties](https://stackoverflow.com/questions/19731507/set-the-jaxb-context-factory-initialization-class-to-be-used)
 
 * DateAdapter.xsd: Customizations to JAXB bindings made by means of inline binding declarations. We just have created for understanding, but not used inline customization because using an external binding customization file enables us to customize JAXB bindings without having to modify the source schema, and enables us to easily apply customizations to several schema files at once. 
 
 * ObjectFactory.java: After Maven Build, navigate to target/generated-sources -> edu.stevens.cs548.clinic.service.dto -> ObjectFactory. This contains factory methods to create objects of classes created. This comes into use when creating JAXBElement representation of objects.
+[Guide for ObjectFactory](https://examples.javacodegeeks.com/core-java/xml/bind/jaxb-generate-classes-xsd/)
