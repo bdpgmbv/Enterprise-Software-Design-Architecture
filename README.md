@@ -58,18 +58,14 @@ Schema scope customizations are declared with <schemaBindings>.
 
 Global scope customizations are declared with <globalBindings>. 
 
-<javaType> Binding Declarations
-
+<javaType> Binding Declarations:
 The <javaType> declaration provides a way to customize the translation of XML datatypes to and from Java datatypes. XML provides more datatypes than Java, and so the <javaType> declaration lets you specify custom datatype bindings when the default JAXB binding cannot sufficiently represent your schema.
 
 The target Java datatype can be a Java built-in datatype or an application-specific Java datatype. If an application-specific datatype is used as the target, your implementation must also provide parse and print methods for unmarshalling and marshalling data. To this end, the JAXB specification supports a parseMethod and printMethod:
-
 The parseMethod is called during unmarshalling to convert a string from the input document into a value of the target Java datatype.
 The printMethod is called during marshalling to convert a value of the target type into a lexical representation.
 If you prefer to define your own datatype conversions, JAXB defines a static class, DatatypeConverter, to assist in the parsing and printing of valid lexical representations of the XML Schema built-in datatypes.
-
 The syntax for the <javaType> customization is:
-
 <javaType name= "javaType"
       [ xmlType= "xmlType" ]
       [ hasNsContext = "true" | "false" ]
@@ -80,8 +76,8 @@ xmlType is the name of the XML Schema datatype to which javaType is to bound; th
 parseMethod is the name of the parse method to be called during unmarshalling.
 printMethod is the name of the print method to be called during marshalling.
 hasNsContext allows a namespace context to be specified as a second parameter to a print or a parse method; can be either true, false, 1, or 0. By default, this attribute is false, and in most cases you will not need to change it.
-The <javaType> declaration can be used in:
 
+The <javaType> declaration can be used in:
 A <globalBindings> declaration
 An annotation element for simple type definitions, GlobalBindings, and <basetype> declarations.
 A <property> declaration.
