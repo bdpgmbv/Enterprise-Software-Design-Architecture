@@ -18,12 +18,32 @@ This Maven plugin wraps and enhances the JAXB Schema Compiler (XJC) and allows c
 * Added the Plugin to the pom.xml file.
 * Under src/main/resources created Schema.xsd, Schema.xjb, jaxb.properties, DateAdapter.xsd files.
 * Schema.xsd - Defines the XML Schema for these Entity Types. 
+* Schema.xjb - Using external binding customization file that enables us to customize JAXB bindings.
 ```
+<?xml version="1.0" encoding="UTF-8"?>
+<bindings xmlns="http://java.sun.com/xml/ns/jaxb" xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xjc="http://java.sun.com/xml/ns/jaxb/xjc"
+	version="2.1" schemaLocation="Schema.xsd" node="/xs:schema">
 
+	<schemaBindings>
+		<package name="edu.stevens.cs548.clinic.service.dto" />
+	</schemaBindings>
+
+	<globalBindings>
+	    <serializable uid="1" />
+		<javaType name="java.util.Date" xmlType="xs:date"
+			parseMethod="edu.stevens.cs548.clinic.service.dto.util.DateAdapter.parseDate"
+			printMethod="edu.stevens.cs548.clinic.service.dto.util.DateAdapter.printDate" />
+	</globalBindings>
+
+</bindings>
 ```
-* Schema.xjb - This file customizes JAXB bindings by means of custom binding declarations. This is an external file passed to the JAXB binding compiler. 
+Hint - Binding customization files should be straight ASCII text. The name or extension does not matter, although a typical extension, is.xjb.
 ```
-Using an external binding customization file enables you to customize JAXB bindings without having to modify the source schema, and enables you to easily apply customizations to several schema files at once.
+Customizations to the default JAXB bindings are made in the form of binding declarations passed to the JAXB binding compiler. These binding declarations can be made in either of two ways:
+
+As inline annotations in a source XML schema
+As declarations in an external binding customizations file
 ```
 
 
