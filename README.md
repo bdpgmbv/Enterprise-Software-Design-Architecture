@@ -45,7 +45,7 @@ Binding customization files should be straight ASCII text. The name or extension
 ...The binding customization file must begin with the jxb:bindings version attribute, plus attributes for the JAXB and XMLSchema namespaces:
 <jxb:bindings version="1.0"
   xmlns:jxb="http://java.sun.com/xml/ns/jaxb"
-  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  xmlns:xs="http://www.w3.org/2001/XMLSchema">..
 
 ...The remote schema to which the binding declaration applies must be identified explicitly in XPath notation by means of a jxb:bindings declaration specifying schemaLocation and node attributes:
 schemaLocation - URI reference to the remote schema
