@@ -135,4 +135,5 @@ public class PatientDto
     protected List<Long> treatments;
 }
 ```
+(After you write Schema.xsd file do a Maven Clean, Maven Install, after which you can see the Classes - ObjectFactory.java & other classes generated under Target/generated-sources folder, Use the ObjectFactory class to write the Factory Classes to create objects of the generated classes)
 * SchemaTest.java - Uses the Factory classes PatientDtoFactory.java, ProviderDtoFactory.java, TreatmentDtoFactory.java which helps us to create sample data as JAXB Objects and then uses JAXB to write these JAXB objects to standard output (as XML).
