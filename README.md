@@ -40,7 +40,7 @@ Schema.xjb
 
 </bindings>
 ```
-[Guide](https://docs.oracle.com/cd/E17802_01/webservices/webservices/docs/1.6/tutorial/doc/JAXBUsing4.html#wp148613)
+[Reference for Customizing JAXB Bindings](https://docs.oracle.com/cd/E17802_01/webservices/webservices/docs/1.6/tutorial/doc/JAXBUsing4.html#wp148613)
 ```
 Quick Info on Schema.xjb:
 
