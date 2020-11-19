@@ -6,7 +6,7 @@ Currently there are three specific forms of treatment records: 1. A drug treatme
 
 
 
-Phase 1: Data Modeling 
+### Phase 1: Data Modeling 
 * Created a JAXB Maven Project. 
 * Used "maven-jaxb2-plugin" 
 ```
@@ -135,4 +135,4 @@ public class PatientDto
     protected List<Long> treatments;
 }
 ```
-* PatientDtoFactory.java, ProviderDtoFactory.java, TreatmentDtoFactory.java - Factory classes that helps us to create sample data as JAXB Objects.
+* SchemaTest.java - Uses the Factory classes PatientDtoFactory.java, ProviderDtoFactory.java, TreatmentDtoFactory.java which helps us to create sample data as JAXB Objects and then uses JAXB to write these JAXB objects to standard output (as XML).
