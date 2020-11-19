@@ -81,8 +81,7 @@ A <globalBindings> declaration
 An annotation element for simple type definitions, GlobalBindings, and <basetype> declarations.
 A <property> declaration.
 
-```
-[Guide for Customizing JAXB Bindings](https://docs.oracle.com/cd/E17802_01/webservices/webservices/docs/1.6/tutorial/doc/JAXBUsing4.html#wp148613)
+``` [Guide for Customizing JAXB Bindings](https://docs.oracle.com/cd/E17802_01/webservices/webservices/docs/1.6/tutorial/doc/JAXBUsing4.html#wp148613)
 
 * jaxb.properties: We can include a jaxb.properties file in the same package as our domain model to specify the JAXB (JSR-222) implementation we wish to use. Here, it would look like the following to specify EclipseLink MOXy as your JAXB provider - javax.xml.bind.context.factory=org.eclipse.persistence.jaxb.JAXBContextFactory.
 [Guide for jaxb.properties](https://stackoverflow.com/questions/19731507/set-the-jaxb-context-factory-initialization-class-to-be-used)
