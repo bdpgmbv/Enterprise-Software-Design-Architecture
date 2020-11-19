@@ -59,12 +59,11 @@ Schema scope customizations are declared with <schemaBindings>.
 Global scope customizations are declared with <globalBindings>. 
 
 <javaType> Binding Declarations:
-The <javaType> declaration provides a way to customize the translation of XML datatypes to and from Java datatypes. XML provides more datatypes than Java, and so the <javaType> declaration lets you specify custom datatype bindings when the default JAXB binding cannot sufficiently represent your schema.
-
-The target Java datatype can be a Java built-in datatype or an application-specific Java datatype. If an application-specific datatype is used as the target, your implementation must also provide parse and print methods for unmarshalling and marshalling data. To this end, the JAXB specification supports a parseMethod and printMethod:
+The <javaType> declaration provides a way to customize the translation of XML datatypes to and from Java datatypes. XML provides more datatypes than Java, and so the <javaType> declaration lets us specify custom datatype bindings when the default JAXB binding cannot sufficiently represent your schema.
+The target Java datatype can be a Java built-in datatype or an application-specific Java datatype. If an application-specific datatype is used as the target, our implementation must also provide parse and print methods for unmarshalling and marshalling data. To this end, the JAXB specification supports a parseMethod and printMethod:
 The parseMethod is called during unmarshalling to convert a string from the input document into a value of the target Java datatype.
 The printMethod is called during marshalling to convert a value of the target type into a lexical representation.
-If you prefer to define your own datatype conversions, JAXB defines a static class, DatatypeConverter, to assist in the parsing and printing of valid lexical representations of the XML Schema built-in datatypes.
+If we prefer to define your own datatype conversions, JAXB defines a static class, DatatypeConverter, to assist in the parsing and printing of valid lexical representations of the XML Schema built-in datatypes.
 The syntax for the <javaType> customization is:
 <javaType name= "javaType"
       [ xmlType= "xmlType" ]
