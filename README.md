@@ -89,3 +89,5 @@ A <property> declaration.
 [Guide for jaxb.properties](https://stackoverflow.com/questions/19731507/set-the-jaxb-context-factory-initialization-class-to-be-used)
 
 * DateAdapter.xsd: Customizations to JAXB bindings made by means of inline binding declarations. We just have created for understanding, but not used inline customization because using an external binding customization file enables us to customize JAXB bindings without having to modify the source schema, and enables us to easily apply customizations to several schema files at once. 
+
+* ObjectFactory.java: After Maven Build, navigate to target/generated-sources -> edu.stevens.cs548.clinic.service.dto -> ObjectFactory. This contains factory methods to create objects of classes created. This comes into use when creating JAXBElement representation of objects.
