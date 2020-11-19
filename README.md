@@ -91,3 +91,48 @@ A <property> declaration.
 
 * ObjectFactory.java: After Maven Build, navigate to target/generated-sources -> edu.stevens.cs548.clinic.service.dto -> ObjectFactory. This contains factory methods to create objects of classes created. This comes into use when creating JAXBElement representation of objects.
 [Guide for ObjectFactory](https://examples.javacodegeeks.com/core-java/xml/bind/jaxb-generate-classes-xsd/)
+
+* How do we create objects of the classes created:
+```
+Schema.xsd
+<element name="patient-dto">
+	<complexType>
+		<sequence>
+			<element name="id" type="long" />
+			<element name="patient-id" type="long" />
+			<element name="name" type="string" />
+			<!-- Foreign key references to treatments for this provider -->
+			<element name="treatments" type="long" nillable="true"
+				minOccurs="0" maxOccurs="unbounded" />
+		</sequence>
+	</complexType>
+</element>
+
+ObjectFactory.java (Created on Maven Build)
+public class ObjectFactory {
+
+    /**
+     * Create an instance of {@link PatientDto }
+     * 
+     */
+    public PatientDto createPatientDto() {
+        return new PatientDto();
+    }
+}
+
+PatientDto.java (Created on Maven Build)
+public class PatientDto
+    implements Serializable
+{
+
+    private final static long serialVersionUID = 1L;
+    protected long id;
+    @XmlElement(name = "patient-id")
+    protected long patientId;
+    @XmlElement(required = true)
+    protected String name;
+    @XmlElement(nillable = true)
+    protected List<Long> treatments;
+}
+```
+* PatientDtoFactory.java, ProviderDtoFactory.java, TreatmentDtoFactory.java - Factory classes that helps us to create sample data as JAXB Objects.
