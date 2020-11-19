@@ -42,12 +42,12 @@ Schema.xjb
 ```
 * Binding Customization File Format
 Binding customization files should be straight ASCII text. The name or extension does not matter, although a typical extension, is.xjb.
-... * The binding customization file must begin with the jxb:bindings version attribute, plus attributes for the JAXB and XMLSchema namespaces:
+..*The binding customization file must begin with the jxb:bindings version attribute, plus attributes for the JAXB and XMLSchema namespaces:
 <jxb:bindings version="1.0"
   xmlns:jxb="http://java.sun.com/xml/ns/jaxb"
   xmlns:xs="http://www.w3.org/2001/XMLSchema">
 
-... * The remote schema to which the binding declaration applies must be identified explicitly in XPath notation by means of a jxb:bindings declaration specifying schemaLocation and node attributes:
+..*The remote schema to which the binding declaration applies must be identified explicitly in XPath notation by means of a jxb:bindings declaration specifying schemaLocation and node attributes:
 ..*schemaLocation - URI reference to the remote schema
 ..*node - XPath 1.0 expression that identifies the schema node within schemaLocation to which the given binding declaration is associated; in the case of the initial jxb:bindings declaration in the binding customization file, this node is typically "/xs:schema"
 
