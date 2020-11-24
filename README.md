@@ -138,3 +138,6 @@ public class PatientDto
 (After you write Schema.xsd file do a Maven Clean, Maven Install, after which you can see the Classes - ObjectFactory.java & other classes generated under Target/generated-sources folder, Use the ObjectFactory class to write the Factory Classes to create objects of the generated classes)
 * SchemaTest.java - Uses the Factory classes PatientDtoFactory.java, ProviderDtoFactory.java, TreatmentDtoFactory.java which helps us to create sample data as JAXB Objects and then uses JAXB to write these JAXB objects to standard output (as XML).
 * How do you run ? Do Maven Clean, Maven Install & Run as -> Junit Test for the resulted XML
+
+### Phase 2: Defining the Data Model using JPA-annotated JAVA code  
+* Here we are data Modeling the Domain Driven Design for Health Care. We represent the Entity and Relationship Types using JPA Annotations.
