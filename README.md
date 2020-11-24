@@ -169,9 +169,10 @@ Basic Setup Required:
 * By choosing Postgresql as the connection profile Installed the driver for Postgresql - PostgreSQL JDBC driver.
 * Provided the connection properties - database name, the credentials to be used for authenticating to the database server, URL for the JDBC connection.
 * After the creation of JPA Project and successful ping to the DB, Convert it to Maven Project, And do Right Click -> JPA tools -> Generate tables from Entities. 
+
 Errors Encountered:
 * Followed Youtube tutorials to add files from EclipseLink Zip to the Project, Error Faced: Eclipse Warnings: class javax.persistence.* not found
 * Error: table cannot be resolved. [Disabled the Build Property of JPA Validation](https://stackoverflow.com/questions/7475228/problem-with-jpa-project-in-eclipse-error-in-class-annotated-entity-table-x)
-* Error: No compiler is provided in this environment. Perhaps you are running on a JRE rather than a JDK? [Sol](https://stackoverflow.com/questions/19655184/no-compiler-is-provided-in-this-environment-perhaps-you-are-running-on-a-jre-ra)
-* Error: Multiple writable mappings exist for the field [TREATMENT.ID]. Only one may be defined as writable, all others must be specified read-only. [sol](https://stackoverflow.com/questions/7952115/multiple-writable-mappings-exception-in-eclipselink)
-* Error: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.DatabaseException Internal Exception: org.postgresql.util.PSQLException: ERROR: relation "" does not exist[sol](https://stackoverflow.com/questions/30626989/jpa-error-relation-does-not-exist)
+* Error: No compiler is provided in this environment. Perhaps you are running on a JRE rather than a JDK? [Solution](https://stackoverflow.com/questions/19655184/no-compiler-is-provided-in-this-environment-perhaps-you-are-running-on-a-jre-ra)
+* Error: Multiple writable mappings exist for the field [TREATMENT.ID]. Only one may be defined as writable, all others must be specified read-only. [Solution](https://stackoverflow.com/questions/7952115/multiple-writable-mappings-exception-in-eclipselink)
+* Error: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.DatabaseException Internal Exception: org.postgresql.util.PSQLException: ERROR: relation "" does not exist. [Solution](https://stackoverflow.com/questions/30626989/jpa-error-relation-does-not-exist)
