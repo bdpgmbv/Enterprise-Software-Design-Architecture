@@ -157,7 +157,14 @@ Treatment entity:
 a. Declared primary key: @Id @GeneratedValue
 b. @ManyToOne relationship to Patient, Provider 
 c. @Inheritance, use join strategy or table-per-subclass strategy
-	i. Discriminator column is not required except for single-table strategy, thus used single-table strategy
+	i. Discriminator column is not required except for single-table strategy, thus used join-table strategy
 d. @Temporal for date fields 
 e. Radiology dates: @ElementCollection 
 ```
+* From this JPA-annotated code, generated the SQL scripts for creating the corresponding tables in a database.
+
+Basic Setup Required: 
+*Created a JPA project with Payara Adapter. 
+*Used appropriate JPA Version to use EclipseLink Platform (ORM runtime, EclipseLink is the reference implementation of JPA). Installed the EclipseLink ORM runtime to the IDE. 
+*By choosing Postgresql as the connection profile Installed the driver for Postgresql - PostgreSQL JDBC driver.
+*Provided the connection properties - database name, the credentials to be used for authenticating to the database server, URL for the JDBC connection.
