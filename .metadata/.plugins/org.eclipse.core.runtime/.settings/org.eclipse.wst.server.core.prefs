@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\n<runtimes>\n  <runtime id\="Payara Server 5 (5.2020.6)" location\="/Users/vyshaliprabananthlal/payara5/glassfish" name\="Payara Server 5 (5.2020.6)" runtime-type-id\="payara.runtime" server.jdk\="/Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home" timestamp\="0"/>\n</runtimes>\n

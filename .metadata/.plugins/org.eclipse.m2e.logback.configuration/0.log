@@ -1,0 +1,359 @@
+2020-11-23 21:01:28,064 [Worker-46: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.stevens.cs548:ClinicDomain:0.0.1-SNAPSHOT @ /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/pom.xml.
+2020-11-23 21:01:28,438 [Worker-46: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ClinicDomain/src
+2020-11-23 21:01:28,438 [Worker-46: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /ClinicDomain/src overlaps with sources folder /ClinicDomain/src
+2020-11-23 21:01:28,444 [Worker-46: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ClinicDomain/src/test/java because it overlaps with /ClinicDomain/src
+2020-11-23 21:01:28,581 [Worker-46: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-23 21:01:28,809 [Worker-46: Enabling Maven Dependency Management] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.stevens.cs548:ClinicDomain:0.0.1-SNAPSHOT @ /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/pom.xml.
+2020-11-23 21:01:29,008 [Worker-46: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ClinicDomain/src
+2020-11-23 21:01:29,008 [Worker-46: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /ClinicDomain/src overlaps with sources folder /ClinicDomain/src
+2020-11-23 21:01:29,014 [Worker-46: Enabling Maven Dependency Management] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ClinicDomain/src/test/java because it overlaps with /ClinicDomain/src
+2020-11-23 21:01:29,070 [Worker-46: Enabling Maven Dependency Management] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-23 21:01:29,193 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:01:29,197 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:01:29,203 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:01:29,203 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:01:53,812 [Worker-48: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.stevens.cs548:ClinicDomain:0.0.1-SNAPSHOT @ /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/pom.xml.
+2020-11-23 21:01:53,954 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:01:53,957 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 21:01:53,958 [Worker-48: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:01:53,967 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:01:55,117 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:01:55,120 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:01:55,126 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:01:55,127 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:03:31,535 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:03:31,538 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:03:31,540 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:03:31,540 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:07:49,862 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:07:49,864 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 21:07:49,870 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:07:49,871 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:07:51,223 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:07:51,224 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:07:51,225 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:07:51,226 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:08:27,509 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:08:27,511 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:08:27,512 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:08:27,513 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:08:50,518 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:08:50,519 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:08:50,520 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:08:50,521 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:08:51,546 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:08:51,547 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 21:08:51,551 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:08:51,551 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:09:19,381 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:09:19,382 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:09:19,383 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:09:19,383 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:09:45,613 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:09:45,615 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:09:45,617 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:09:45,617 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:10:09,891 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:10:09,893 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:10:09,894 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:10:09,894 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:10:21,472 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:10:21,474 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:10:21,475 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:10:21,476 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:10:28,801 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:10:28,802 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:10:28,803 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:10:28,804 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:11:04,334 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:11:04,336 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:11:04,337 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:11:04,338 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:11:17,853 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:11:17,855 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:11:17,857 [Worker-50: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:11:17,857 [Worker-50: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:11:22,344 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:11:22,345 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:11:22,346 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:11:22,347 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:11:52,241 [Worker-50: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-23 21:11:52,388 [Worker-50: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.stevens.cs548:ClinicDomain:0.0.1-SNAPSHOT @ /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/pom.xml.
+2020-11-23 21:11:52,498 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ClinicDomain/src
+2020-11-23 21:11:52,498 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /ClinicDomain/src overlaps with sources folder /ClinicDomain/src
+2020-11-23 21:11:52,499 [Worker-50: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ClinicDomain/src/test/java because it overlaps with /ClinicDomain/src
+2020-11-23 21:11:52,598 [Worker-50: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-23 21:11:53,047 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:11:53,048 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:11:53,056 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:11:53,057 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:12:05,310 [Worker-55: Launching Executing clean in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain
+2020-11-23 21:12:05,311 [Worker-55: Launching Executing clean in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-11-23 21:12:06,838 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:12:06,840 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:12:06,842 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:12:06,842 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:12:15,255 [Worker-54: Launching Executing install in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain
+2020-11-23 21:12:15,255 [Worker-54: Launching Executing install in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-11-23 21:12:16,838 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:12:16,838 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 21:12:16,839 [Worker-52: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:12:16,840 [Worker-52: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:12:40,530 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:12:40,531 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:12:40,532 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:12:40,533 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:13:12,791 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:13:12,793 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:13:12,795 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:13:12,795 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:13:23,823 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:13:23,825 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:13:23,826 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:13:23,827 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:14:31,757 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:14:31,759 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:14:31,761 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:14:31,761 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:15:16,409 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:15:16,411 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:15:16,412 [Worker-56: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:15:16,413 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:15:31,449 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:15:31,451 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:15:31,453 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:15:31,453 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:15:37,174 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:15:37,175 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:15:37,176 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:15:37,177 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:16:04,079 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:16:04,081 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:16:04,082 [Worker-57: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:16:04,083 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:16:17,275 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:16:17,276 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:16:17,277 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:16:17,278 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:16:28,822 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:16:28,823 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:16:28,824 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:16:28,825 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:17:30,913 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:17:30,914 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:17:30,915 [Worker-58: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:17:30,916 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:17:48,326 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:17:48,328 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:17:48,329 [Worker-55: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:17:48,330 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:17:59,803 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:17:59,804 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:17:59,805 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:17:59,806 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:20:20,788 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-23 21:20:21,044 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.stevens.cs548:ClinicDomain:0.0.1-SNAPSHOT @ /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/pom.xml.
+2020-11-23 21:20:21,242 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ClinicDomain/src
+2020-11-23 21:20:21,242 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /ClinicDomain/src overlaps with sources folder /ClinicDomain/src
+2020-11-23 21:20:21,242 [Worker-56: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ClinicDomain/src/test/java because it overlaps with /ClinicDomain/src
+2020-11-23 21:20:21,326 [Worker-56: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-23 21:20:21,631 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:20:21,632 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:20:21,637 [Worker-46: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:20:21,638 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:20:29,667 [Worker-59: Launching Executing clean in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain
+2020-11-23 21:20:29,667 [Worker-59: Launching Executing clean in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-11-23 21:20:31,334 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:20:31,336 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:20:31,337 [Worker-60: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:20:31,338 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:20:41,634 [Worker-59: Launching Executing install in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain
+2020-11-23 21:20:41,635 [Worker-59: Launching Executing install in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-11-23 21:20:43,302 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:20:43,303 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 21:20:43,304 [Worker-54: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:20:43,305 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:29:11,785 [Worker-62: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-23 21:29:12,011 [Worker-62: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.stevens.cs548:ClinicDomain:0.0.1-SNAPSHOT @ /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/pom.xml.
+2020-11-23 21:29:12,208 [Worker-62: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ClinicDomain/src
+2020-11-23 21:29:12,208 [Worker-62: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /ClinicDomain/src overlaps with sources folder /ClinicDomain/src
+2020-11-23 21:29:12,209 [Worker-62: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ClinicDomain/src/test/java because it overlaps with /ClinicDomain/src
+2020-11-23 21:29:12,278 [Worker-62: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-23 21:29:12,663 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:29:12,665 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:29:12,669 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:29:12,670 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:30:36,333 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:30:36,337 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 21:30:36,338 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:30:36,339 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:30:37,348 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:30:37,349 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 21:30:37,350 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:30:37,350 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:30:51,577 [Worker-67: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-23 21:30:51,765 [Worker-67: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.stevens.cs548:ClinicDomain:0.0.1-SNAPSHOT @ /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/pom.xml.
+2020-11-23 21:30:51,868 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ClinicDomain/src
+2020-11-23 21:30:51,869 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /ClinicDomain/src overlaps with sources folder /ClinicDomain/src
+2020-11-23 21:30:51,869 [Worker-67: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ClinicDomain/src/test/java because it overlaps with /ClinicDomain/src
+2020-11-23 21:30:51,935 [Worker-67: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-23 21:30:52,166 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:30:52,167 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:30:52,171 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:30:52,172 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:31:03,783 [Worker-69: Launching Executing clean in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain
+2020-11-23 21:31:03,783 [Worker-69: Launching Executing clean in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-11-23 21:31:05,216 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:31:05,218 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:31:05,219 [Worker-68: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:31:05,220 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:31:11,545 [Worker-67: Launching Executing install in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain
+2020-11-23 21:31:11,545 [Worker-67: Launching Executing install in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-11-23 21:31:13,164 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:31:13,166 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-23 21:31:13,167 [Worker-67: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:31:13,167 [Worker-67: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:35:13,272 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:35:13,273 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:35:13,275 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:35:13,276 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:35:21,978 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-23 21:35:22,184 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.stevens.cs548:ClinicDomain:0.0.1-SNAPSHOT @ /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/pom.xml.
+2020-11-23 21:35:22,325 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ClinicDomain/src
+2020-11-23 21:35:22,325 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /ClinicDomain/src overlaps with sources folder /ClinicDomain/src
+2020-11-23 21:35:22,325 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ClinicDomain/src/test/java because it overlaps with /ClinicDomain/src
+2020-11-23 21:35:22,414 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-23 21:35:22,680 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:35:22,681 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:35:22,687 [Worker-70: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:35:22,688 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:37:05,847 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-23 21:37:05,969 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.stevens.cs548:ClinicDomain:0.0.1-SNAPSHOT @ /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/pom.xml.
+2020-11-23 21:37:06,053 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ClinicDomain/src
+2020-11-23 21:37:06,054 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /ClinicDomain/src overlaps with sources folder /ClinicDomain/src
+2020-11-23 21:37:06,054 [Worker-71: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ClinicDomain/src/test/java because it overlaps with /ClinicDomain/src
+2020-11-23 21:37:06,125 [Worker-71: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-23 21:37:06,351 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:37:06,352 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:37:06,359 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:37:06,359 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:37:11,636 [Worker-77: Launching Executing clean in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain
+2020-11-23 21:37:11,636 [Worker-77: Launching Executing clean in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-11-23 21:37:13,057 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:37:13,061 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:37:13,064 [Worker-71: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:37:13,064 [Worker-71: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:37:19,150 [Worker-75: Launching Executing install in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain
+2020-11-23 21:37:19,150 [Worker-75: Launching Executing install in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-11-23 21:37:21,670 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:37:21,672 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:37:21,674 [Worker-75: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:37:21,674 [Worker-75: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:39:59,659 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:39:59,660 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:39:59,661 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:39:59,662 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:40:03,677 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:40:03,678 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:40:03,679 [Worker-66: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:40:03,679 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:41:32,358 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:41:32,359 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:41:32,360 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:41:32,361 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:41:35,896 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:41:35,897 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:41:35,898 [Worker-82: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:41:35,898 [Worker-82: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:41:47,011 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:41:47,012 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:41:47,013 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:41:47,014 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:41:59,180 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-23 21:41:59,356 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.stevens.cs548:ClinicDomain:0.0.1-SNAPSHOT @ /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/pom.xml.
+2020-11-23 21:41:59,484 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ClinicDomain/src
+2020-11-23 21:41:59,484 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /ClinicDomain/src overlaps with sources folder /ClinicDomain/src
+2020-11-23 21:41:59,485 [Worker-84: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ClinicDomain/src/test/java because it overlaps with /ClinicDomain/src
+2020-11-23 21:41:59,576 [Worker-84: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-23 21:41:59,801 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:41:59,802 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:41:59,807 [Worker-83: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:41:59,808 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:42:13,256 [Worker-76: Launching Executing clean in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain
+2020-11-23 21:42:13,256 [Worker-76: Launching Executing clean in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-11-23 21:42:14,611 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:42:14,613 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:42:14,614 [Worker-79: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:42:14,615 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:42:21,444 [Worker-76: Launching Executing install in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain
+2020-11-23 21:42:21,445 [Worker-76: Launching Executing install in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-11-23 21:42:23,889 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:42:23,890 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:42:23,891 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:42:23,891 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:47:40,266 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:47:40,268 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:47:40,269 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:47:40,269 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:47:48,642 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:47:48,644 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:47:48,645 [Worker-85: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:47:48,645 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:47:55,688 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:47:55,689 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:47:55,690 [Worker-91: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:47:55,690 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:48:29,953 [Worker-87: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-11-23 21:48:30,142 [Worker-87: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.stevens.cs548:ClinicDomain:0.0.1-SNAPSHOT @ /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/pom.xml.
+2020-11-23 21:48:30,316 [Worker-87: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ClinicDomain/src
+2020-11-23 21:48:30,317 [Worker-87: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /ClinicDomain/src overlaps with sources folder /ClinicDomain/src
+2020-11-23 21:48:30,317 [Worker-87: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /ClinicDomain/src/test/java because it overlaps with /ClinicDomain/src
+2020-11-23 21:48:30,373 [Worker-87: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2020-11-23 21:48:30,585 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:48:30,587 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:48:30,593 [Worker-88: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:48:30,594 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:48:46,133 [Worker-89: Launching Executing clean in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain
+2020-11-23 21:48:46,133 [Worker-89: Launching Executing clean in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-11-23 21:48:47,809 [Worker-90: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:48:47,812 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:48:47,813 [Worker-90: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:48:47,814 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-23 21:48:53,653 [Worker-91: Launching Executing install in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain
+2020-11-23 21:48:53,653 [Worker-91: Launching Executing install in _Users_vyshaliprabananthlal_eclipse-workspace_5484trytrytrtry_ClinicDomain] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-11-23 21:48:56,052 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:48:56,054 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-11-23 21:48:56,055 [Worker-94: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-23 21:48:56,056 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-24 08:35:16,356 [Worker-110: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:35:16,361 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-24 08:35:16,362 [Worker-110: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:35:16,362 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-24 08:35:50,521 [Worker-110: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:35:50,521 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-24 08:35:50,522 [Worker-110: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:35:50,523 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-24 08:36:12,992 [Worker-110: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:36:12,993 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-24 08:36:12,994 [Worker-110: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:36:12,994 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-24 08:37:17,804 [Worker-110: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:37:17,806 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-24 08:37:17,806 [Worker-110: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:37:17,807 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-24 08:38:12,071 [Worker-116: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:38:12,071 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-24 08:38:12,073 [Worker-116: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:38:12,074 [Worker-116: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-24 08:38:52,457 [Worker-110: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:38:52,458 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-24 08:38:52,458 [Worker-110: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:38:52,459 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-24 08:40:04,984 [Worker-120: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:40:04,985 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-24 08:40:04,985 [Worker-120: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:40:04,986 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
+2020-11-24 08:40:26,358 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:40:26,358 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-11-24 08:40:26,359 [Worker-118: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-11-24 08:40:26,359 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/vyshaliprabananthlal/eclipse-workspace/5484trytrytrtry/ClinicDomain/src/test/resources
