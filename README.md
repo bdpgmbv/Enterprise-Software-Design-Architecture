@@ -141,3 +141,23 @@ public class PatientDto
 
 ### Phase 2: Defining the Data Model using JPA-annotated JAVA code  
 * Here we are data Modeling the Domain Driven Design for Health Care. We represent the Entity and Relationship Types using JPA Annotations.
+* Below are the Object Relational mapping used:
+```
+Patient entity:
+a. Declared primary key: @Id @GeneratedValue
+b. @OneToMany relationship to Treatment
+	i. cascading removal
+	ii. mappedBy attribute set
+Provider entity: 
+a. Declared primary key: @Id (may be NPI(UUID) or auto-generated) 
+b. @OneToMany relationship to Treatment
+	i. cascading removal
+	ii. mappedBy attribute set
+Treatment entity:
+a. Declared primary key: @Id @GeneratedValue
+b. @ManyToOne relationship to Patient, Provider 
+c. @Inheritance, use join strategy or table-per-subclass strategy
+	i. Discriminator column is not required except for single-table strategy, thus used single-table strategy
+d. @Temporal for date fields 
+e. Radiology dates: @ElementCollection 
+```
