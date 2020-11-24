@@ -164,7 +164,7 @@ e. Radiology dates: @ElementCollection
 * From this JPA-annotated code, generated the SQL scripts for creating the corresponding tables in a database.
 
 Basic Setup Required: 
-*Created a JPA project with Payara Adapter. 
-*Used appropriate JPA Version to use EclipseLink Platform (ORM runtime, EclipseLink is the reference implementation of JPA). Installed the EclipseLink ORM runtime to the IDE. 
-*By choosing Postgresql as the connection profile Installed the driver for Postgresql - PostgreSQL JDBC driver.
-*Provided the connection properties - database name, the credentials to be used for authenticating to the database server, URL for the JDBC connection.
+* Created a JPA project with Payara Adapter. 
+* Used appropriate JPA Version to use EclipseLink Platform (ORM runtime, EclipseLink is the reference implementation of JPA). Installed the EclipseLink ORM runtime to the IDE. 
+* By choosing Postgresql as the connection profile Installed the driver for Postgresql - PostgreSQL JDBC driver.
+* Provided the connection properties - database name, the credentials to be used for authenticating to the database server, URL for the JDBC connection.
