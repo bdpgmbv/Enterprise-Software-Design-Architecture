@@ -176,3 +176,12 @@ Errors Encountered:
 * Error: No compiler is provided in this environment. Perhaps you are running on a JRE rather than a JDK? [Solution](https://stackoverflow.com/questions/19655184/no-compiler-is-provided-in-this-environment-perhaps-you-are-running-on-a-jre-ra)
 * Error: Multiple writable mappings exist for the field [TREATMENT.ID]. Only one may be defined as writable, all others must be specified read-only. [Solution](https://stackoverflow.com/questions/7952115/multiple-writable-mappings-exception-in-eclipselink)
 * Error: Exception [EclipseLink-4002] (Eclipse Persistence Services - 2.5.2.v20140319-9ad6abd): org.eclipse.persistence.exceptions.DatabaseException Internal Exception: org.postgresql.util.PSQLException: ERROR: relation "" does not exist. [Solution](https://stackoverflow.com/questions/30626989/jpa-error-relation-does-not-exist)
+
+### Phase 3: Domain Driven Design - Adding Domain Specific Logic to the JAVA Classes
+* Factory Pattern: Used factory pattern for creating patients, treatment and provider entities.
+* Repository (DAO) Pattern: Defined the Repository (DOA) objects that encapsulate the use of the entity manager. (Note: The entity manager should not be accessed outside a DAO. There should be one DAO per entity type that is persisted (patient, provider and treatment))
+
+```
+#### Domain Logics Include:
+##### Add a new patient to the clinic:
+```
