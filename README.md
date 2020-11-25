@@ -180,7 +180,6 @@ Errors Encountered:
 ### Phase 3: Domain Driven Design - Adding Domain Specific Logic to the JAVA Classes
 * Factory Pattern: Used factory pattern for creating patients, treatment and provider entities.
 * Repository (DAO) Pattern: Defined the Repository (DOA) objects that encapsulate the use of the entity manager. (Note: The entity manager should not be accessed outside a DAO. There should be one DAO per entity type that is persisted (patient, provider and treatment))
-
 #### Domain Logics Include:
 ##### Add a new patient to the clinic:
 
