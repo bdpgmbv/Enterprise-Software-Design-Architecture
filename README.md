@@ -183,3 +183,35 @@ Errors Encountered:
 #### Domain Logics Include:
 ##### Add a new patient to the clinic:
 
+
+
+IPatientDAO
+IPatientFactory
+Patient
+PatientDAO
+PatientFactory
+
+
+IProviderDAO
+IProviderFactory
+Provider
+ProviderDAO
+ProviderFactory
+
+
+
+ITreatmentDAO
+ITreatmentFactory
+ITreatmentExporter
+Treatment
+TreatmentDAO
+TreatmentFactory
+
+
+
+DrugTreatment
+RadiologyTreatment
+SurgeryTreatment
+
+
+TreatmentType
